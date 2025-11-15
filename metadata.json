@@ -1,0 +1,5 @@
+{
+  "name": "USDA Agrona Assistant",
+  "description": "An AI-powered chatbot, Agrona, designed to help users navigate the USDA Rural Development website. It provides accurate, cited information on loans, grants, and other resources for rural communities, using Google Search grounding for up-to-date answers.",
+  "requestFramePermissions": []
+}
